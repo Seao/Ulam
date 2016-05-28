@@ -1,11 +1,11 @@
-# La spirale d'Ulam
-C'est une méthode simple pour la **représentation des nombres premiers** qui révèle un motif qui n'a jamais été pleinement expliqué.
-Elle fut découverte par le mathématicien **Stanislaw Marcin Ulam**, lors d'une conférence scientifique en 1963.
+# The Ulam Spiral
+This is a simple method for the representation of prime numbers that reveals a pattern that was never fully explained.
+It was discovered by the mathematician Stanislaw Marcin Ulam, at a scientific conference in 1963.
 
 # Motivation
-Fasciné par la simplicité de l'idée donnant naissance à ce motif mystérieux, j'ai voulu le créer par moi même et ainsi
-perfectionner mes connaissances en Python, et plus particulièrement sur l'utilisant de la bibliothèque Python Imaging Library.
+Fascinated by the simplicity of the idea giving rise to what mysterious reason, I wanted to create by myself and so
+improve my knowledge of Python, particularly on the use of the Python Imaging Library library.
 
-# Bibliothèques
-- Sympy : Biliothèque spécialisée pour les calculs mathématiques, elle est utilisée pour sa fonction **isprime()** qui test la primalité d'un nombre donné en paramètre.
-- PIL : Bibliothèque spécialisée dans le traitement d'images en Python, elle est utilisée pour la création de l'image résultante pixel par pixel
+# Libraries
+- Sympy: Library specialized for mathematical calculations, it is used for its **isprime ()** function that test the primality of a given number as a parameter.
+- PIL: Library specializing in image processing in Python, it is used to create the resulting image pixel by pixel
